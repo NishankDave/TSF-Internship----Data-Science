@@ -1,4 +1,4 @@
-TSF-Internship---Data-Science
+GRIP-Internship by TSF---Data-Science
 These are the tasks assigned to me in the Data Science and Analytics field :
 
 TASK 1 : Prediction using Supervised ML
